@@ -1,0 +1,4 @@
+[submodule "AssetsTools.NET"]
+	path = AssetsTools.NET
+	url = https://github.com/dmc31a42/AssetsTools.NET.git
+	branch = dotNET_Standard

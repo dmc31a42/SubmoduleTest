@@ -4,4 +4,8 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AssetsTools.NET\AssetsTools.NET\AssetsTools.NET.csproj" />
+  </ItemGroup>
+
 </Project>
